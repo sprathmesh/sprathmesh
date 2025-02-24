@@ -1,11 +1,35 @@
-Hi there! 👋 Welcome to my GitHub
-I’m Prathmesh, a tech enthusiast passionate about automation, scalability, and building efficient systems. 🚀
-I thrive on continuous learning and exploration in the DevOps space, always aiming to go deeper and master new tools and technologies.
+# Hi there! 👋 Welcome to my GitHub  
+## 🚀 Prathmesh | DevOps Engineer | Automation Enthusiast  
 
-💡 What I Love:
+I’m **Prathmesh**, a tech enthusiast passionate about **automation, scalability, and building efficient systems**.  
+I thrive on **continuous learning** and exploring the ever-evolving **DevOps** space, always aiming to master new tools and technologies.  
 
-Automating workflows and improving efficiency 🔄
-Working with scalable cloud-native architectures ☁️
-Containerization, orchestration, and everything DevOps ⚙️
-✨ My Goal:
-To build innovative solutions that make infrastructure more robust, scalable, and automated.
+---
+
+## 💡 What I Love  
+🔄 **Automating workflows** to improve efficiency  
+☁️ **Working with scalable cloud-native architectures**  
+🐳 **Containerization & Orchestration** (Docker, Kubernetes)  
+⚙️ **CI/CD Pipelines & Infrastructure as Code (IaC)**  
+
+---
+
+## ✨ My Goal  
+🔹 To build **innovative DevOps solutions** that make infrastructure more **robust, scalable, and automated**.  
+🔹 To simplify **deployment processes** and ensure **high availability**.  
+
+---
+
+## 🛠️ Tech Stack  
+- 🐳 **Docker** | ☸️ **Kubernetes** | 🔄 **Helm**  
+- 🚀 **Terraform** | 🏗️ **Ansible**  
+- 🔥 **AWS | Azure | GCP**  
+- 🔧 **Jenkins | GitHub Actions | ArgoCD**  
+- 📦 **Prometheus | Grafana | ELK Stack**  
+- 🐧 **Linux | Shell Scripting**  
+
+---
+
+📌 **Let's Connect!**  
+📫 Reach me at **sprathmesh276@gmail.com**  
+📢 Open to collaborations & exciting DevOps projects! 🚀  
